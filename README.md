@@ -14,7 +14,7 @@
 - **Recursos:**
   - [Curso de JavaScript Básico - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
   - [Curso de JavaScript para Iniciantes - Codecademy](https://www.codecademy.com/learn/introduction-to-javascript)
-  - [Curso de JavaScript Completo - Programação Web](https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU4KUoDrJglRXWn6Ei06)
+  - [Curso de JavaScript Completo - Programação Web](https://www.youtube.com/watch?v=BXqUH86F-kA&list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
 
 ## 2. Git e GitHub
 - **Objetivo:** Aprender a usar o controle de versão e colaborar com outros desenvolvedores.
