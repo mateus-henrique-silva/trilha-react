@@ -34,27 +34,9 @@
 - **Recursos:**
   - [Documentação Oficial do React - React Docs](https://reactjs.org/docs/getting-started.html)
   - [Curso de React para Iniciantes - FreeCodeCamp](https://www.freecodecamp.org/news/learn-react-in-1-hour/)
-  - [Curso de React.js Completo - Programação Web](https://www.youtube.com/playlist?list=PLK_BHwIXrO1NVZndaoEUROuBpoFHZkQap)
+  - [Curso de React.js Completo - Programação Web](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 
-### React Avançado
-- **Objetivo:** Aprender conceitos avançados e boas práticas em React.
-- **Recursos:**
-  - [Curso Avançado de React - Egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react)
-  - [Curso React + Redux - Cod3r](https://www.udemy.com/course/react-redux-pt/)
 
-## 5. Ferramentas e Bibliotecas Adicionais
-
-### Redux (Gerenciamento de Estado)
-- **Objetivo:** Aprender a gerenciar estados em aplicações React de forma eficaz.
-- **Recursos:**
-  - [Documentação Oficial do Redux - Redux Docs](https://redux.js.org/)
-  - [Curso de Redux para Iniciantes - DevPleno](https://www.youtube.com/playlist?list=PLB5_GCOA2n7dHP4HPKEwP0kuKxfUG6D3y)
-
-### React Router (Navegação)
-- **Objetivo:** Aprender a implementar navegação em aplicações React.
-- **Recursos:**
-  - [Documentação Oficial do React Router - React Router Docs](https://reactrouter.com/)
-  - [Curso de React Router - Traversy Media](https://www.youtube.com/watch?v=Law7wfdg_ls)
 
 ## 6. Projeto Prático
 
