@@ -61,4 +61,4 @@
   - [Clean Code - Livro](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
   - [Design Patterns em JavaScript - Refactoring Guru](https://refactoring.guru/design-patterns/javascript)
 
-Seguindo essa trilha, você terá uma boa base para começar e evoluir no desenvolvimento web com React e TypeScript. Boa sorte nos estudos!
+
