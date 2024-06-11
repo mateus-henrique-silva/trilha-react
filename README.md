@@ -20,22 +20,12 @@
 - **Objetivo:** Aprender a usar o controle de versão e colaborar com outros desenvolvedores.
 - **Recursos:**
   - [Git e GitHub para Iniciantes - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-  - [Curso de Git e GitHub - Codecademy](https://www.codecademy.com/learn/learn-git)
+  
 
 ## 3. JavaScript Avançado e TypeScript
 
-### JavaScript Avançado
-- **Objetivo:** Aprender conceitos mais avançados de JavaScript, incluindo ES6+.
-- **Recursos:**
-  - [JavaScript Avançado - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  - [Curso de JavaScript Moderno - Fullstack Master](https://www.youtube.com/playlist?list=PL85ITvJ7FLoh7QBmAqJ_B-56UP0ikFmB7)
-
-### TypeScript
-- **Objetivo:** Aprender a utilizar TypeScript para melhorar a qualidade do código JavaScript.
-- **Recursos:**
-  - [Documentação Oficial do TypeScript - TypeScript Docs](https://www.typescriptlang.org/docs/)
-  - [Curso de TypeScript - Academind](https://academind.com/learn/typescript/)
-  - [Curso de TypeScript Completo - Programação Web](https://www.youtube.com/playlist?list=PL9aKtVrF05DxJ8KbbtvIHT54CvTEXB4DU)
+### Typescritp 
+ - [TS](https://www.youtube.com/watch?v=ppDsxbUNtNQ)
 
 ## 4. React
 
