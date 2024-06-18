@@ -59,6 +59,6 @@
 - **Objetivo:** Aprender e aplicar boas práticas no desenvolvimento.
 - **Recursos:**
   - [Clean Code - Livro](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-  - [Design Patterns em JavaScript - Refactoring Guru](https://refactoring.guru/design-patterns/javascript)
+  - [Design Patterns em JavaScript - Refactoring Guru](https://refactoring.guru/design-patterns/typescript)
 
 
