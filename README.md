@@ -7,7 +7,7 @@
 - **Recursos:**
   - [Curso HTML e CSS - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Learn/HTML)
   - [Curso de HTML e CSS - W3Schools](https://www.w3schools.com/)
-  - [Curso HTML Completo e Grátis - NodeStudio](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+  - [Curso HTML Completo e Grátis](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 
 ### JavaScript Básico
 - **Objetivo:** Entender a linguagem de programação que dá vida às páginas web.
